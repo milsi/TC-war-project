@@ -3,8 +3,8 @@ This is a project for war game
 
 ## To-do:
 ### Define card deck (52, excl Jokers)
-- [Find](https://pydealer.readthedocs.io/en/latest/) 
-- https://pypi.org/project/deckcards/
+- [PyDealer](https://pydealer.readthedocs.io/en/latest/) 
+- [deckcards 1.0.1](https://pypi.org/project/deckcards/)
 - Rank (high→low)	A K Q J 10 9 8 7 6 5 4 3 2
 ### Shuffle the deck
 ### Split the deck in half for two (computer) players
