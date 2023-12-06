@@ -1,7 +1,9 @@
 # TC-war-project
+
 This is a project for war game
 
 ## To-do:
+<<<<<<< HEAD
 - Define card deck (52, excl Jokers)
   - [PyDealer](https://pydealer.readthedocs.io/en/latest/) 
   - [deckcards 1.0.1](https://pypi.org/project/deckcards/)
@@ -12,6 +14,27 @@ This is a project for war game
 - Print the last items of each player's card stack lists at once
 - Pop the cards of the players' lists and put it into a table list
 - While both players have at least one card:
+=======
+
+### Define card deck (52, excl Jokers)
+
+- [PyDealer](https://pydealer.readthedocs.io/en/latest/) 
+- [deckcards 1.0.1](https://pypi.org/project/deckcards/)
+- Rank (high→low)	A K Q J 10 9 8 7 6 5 4 3 2
+
+### Shuffle the deck
+
+### Split the deck in half for two (computer) players
+
+### Print word battle
+
+### Print the last items of each player's card stack lists at once
+
+### Pop the cards of the players' lists and put it into a table list
+
+### While both players have at least one card:
+
+>>>>>>> ca3c656d9ef3f8877d957b2dc5ad7a0bf37870a8
 - If:
 - Pn has a higher value card, remove both cards from table list and add it to the beginning of P1's card stack list
 - P1 and P2 have even cards:
